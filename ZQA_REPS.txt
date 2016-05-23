@@ -12,6 +12,7 @@ REPORT  ZQA.
 *Test to check @@
 *another test @@
 *one more
+*one more
 *NEW LINE
 *test
 *test1
